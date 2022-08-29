@@ -21,9 +21,9 @@ Extreme events stress New York City’s (NYC’s) interdependent energy and wate
 This project aims to identify supply chain vulnerabilities of New York City’s physical water and wastewater infrastructure; and inform resilience policies against natural disasters. The project will:
 
 Provide a water and wastewater management framework which integrates publicly available databases.
-Perform a scenario for each water and wastewater infrastructures using different machine learning methods.
-Visualize the results to clearly display the impact from the vulnerabilities.
-Pose possible future implications or recommendations.
+\n Perform a scenario for each water and wastewater infrastructures using different machine learning methods.
+\n Visualize the results to clearly display the impact from the vulnerabilities.
+\n Pose possible future implications or recommendations.
 
 Please read our technical project report for more details. Details about individual infrastructure databases have been added in respective folders.
 
